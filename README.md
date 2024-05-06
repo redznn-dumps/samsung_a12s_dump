@@ -1,0 +1,14 @@
+# a12sub-user 13 TP1A.220624.014 A127MUBUBDWK2 release-keys
+- manufacturer: samsung
+- platform: universal3830
+- codename: a12s
+- flavor: a12sub-user
+- release: 13
+- id: TP1A.220624.014
+- incremental: A127MUBUBDWK2
+- tags: release-keys
+- fingerprint: samsung/a12sub/a12s:13/TP1A.220624.014/A127MUBUBDWK2:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a12sub-user-13-TP1A.220624.014-A127MUBUBDWK2-release-keys
+- repo: samsung_a12s_dump
